@@ -9,6 +9,7 @@ Platforms:
 ## Summary
 
 Contests participated: 6 
+
 Valid findings: 
 - High: 1
 - Medium: 3
@@ -23,7 +24,7 @@ Valid findings:
 | 2025-12 | Code4rena | Merkl | 1 Low | [Finding link](https://code4rena.com/audits/2025-11-merkl/submissions?uid=zh4cenNq8UE) |
 | 2025-12 | Code4rena | SukukFi | 2 Low | TBD |
 | 2025-12 | Sherlock | Monolith Stablecoin Factory (Inverse) | 2 Medium | TDB |
-| 2026-01 | Sherlock | OpenCover Insured Vaults | contest had no valids findings | TBD |
+| 2026-01 | Sherlock | OpenCover Insured Vaults | contest had no valid findings | TBD |
 
 ## Notes
 
