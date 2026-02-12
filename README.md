@@ -23,8 +23,8 @@ Valid findings:
 | 2025-11 | Sherlock | stNXM (EaseDeFi) | 1 High, 1 Medium | [Personal Sherlock profile](https://audits.sherlock.xyz/watson/cyberEth) |
 | 2025-12 | Code4rena | Merkl | 1 Low | [Finding link](https://code4rena.com/audits/2025-11-merkl/submissions?uid=zh4cenNq8UE) |
 | 2025-12 | Code4rena | SukukFi | 1 High, 2 Low | TBD (report not published) |
-| 2025-12 | Sherlock | Monolith Stablecoin Factory (Inverse) | 2 Medium | (report not published) |
-| 2026-01 | Sherlock | OpenCover Insured Vaults | contest had no valid findings | (report not published) |
+| 2025-12 | Sherlock | Monolith Stablecoin Factory (Inverse) | 2 Medium | TBD (report not published) |
+| 2026-01 | Sherlock | OpenCover Insured Vaults | contest had no valid findings | TBD (report not published) |
 
 ## Notes
 
