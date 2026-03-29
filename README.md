@@ -17,14 +17,14 @@ Valid findings:
 
 ## Contests
 
-| Date | Platform | Contest  | Findings | links |
-|------|----------|----------|----------|-------|
-| 2025-11 | Sherlock | Centrifuge | None | [All findings](https://audits.sherlock.xyz/contests/1028) |
-| 2025-11 | Sherlock | stNXM (EaseDeFi) | [1 High, 1 Medium](https://audits.sherlock.xyz/watson/cyberEth) | [All findings](https://audits.sherlock.xyz/contests/1203) |
-| 2025-12 | Code4rena | Merkl | [1 Low](https://code4rena.com/audits/2025-11-merkl/submissions?uid=zh4cenNq8UE) | [Report](https://code4rena.com/reports/2025-11-merkl) |
-| 2025-12 | Code4rena | SukukFi | 1 High, 2 Low | TBD (report not published) |
-| 2025-12 | Sherlock | Monolith Stablecoin Factory (Inverse) | [2 Medium](https://audits.sherlock.xyz/watson/cyberEth) | [All findings](https://audits.sherlock.xyz/contests/1212) |
-| 2026-01 | Sherlock | OpenCover Insured Vaults | contest had no valid findings | TBD (report not published) |
+| Date | Platform | Contest  | Protocol Type | Findings | links |
+|------|----------|----------|---------------|----------|-------|
+| 2025-11 | Sherlock | Centrifuge | RWA lending / asset tokenization | None | [All findings](https://audits.sherlock.xyz/contests/1028) |
+| 2025-11 | Sherlock | stNXM (EaseDeFi) | DeFi insurance / staking derivatives | [1 High, 1 Medium](https://audits.sherlock.xyz/watson/cyberEth) | [All findings](https://audits.sherlock.xyz/contests/1203) |
+| 2025-12 | Code4rena | Merkl | Incentives / liquidity mining / rewards distribution | [1 Low](https://code4rena.com/audits/2025-11-merkl/submissions?uid=zh4cenNq8UE) | [Report](https://code4rena.com/reports/2025-11-merkl) |
+| 2025-12 | Code4rena | SukukFi | tokenized bonds (Sukuk) | 1 High, 2 Low | TBD (report not published) |
+| 2025-12 | Sherlock | Monolith Stablecoin Factory (Inverse) | Stablecoin infrastructure / minting system | [2 Medium](https://audits.sherlock.xyz/watson/cyberEth) | [All findings](https://audits.sherlock.xyz/contests/1212) |
+| 2026-01 | Sherlock | OpenCover Insured Vaults | DeFi insurance / yield vaults | contest had no valid findings | TBD (report not published) |
 
 ## Notes
 
